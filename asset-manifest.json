@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/restaurant-react/static/css/main.dddcfc51.css",
-    "main.js": "/restaurant-react/static/js/main.74591b99.js",
-    "static/media/sallata.jpg": "/restaurant-react/static/media/sallata.e36eca61d338a036899f.jpg",
-    "static/media/food.jpg": "/restaurant-react/static/media/food.9baf666607712c15e9fc.jpg",
-    "static/media/OIP.jpg": "/restaurant-react/static/media/OIP.2be83ffa285b2f152679.jpg",
-    "static/media/margarita.jpg": "/restaurant-react/static/media/margarita.b1ad6e0d2e085846efb5.jpg",
-    "static/media/pasta.jpg": "/restaurant-react/static/media/pasta.1529eb9d286bca825145.jpg",
-    "static/media/mishra.jpg": "/restaurant-react/static/media/mishra.8663addc2c3f23408236.jpg",
-    "index.html": "/restaurant-react/index.html",
-    "main.dddcfc51.css.map": "/restaurant-react/static/css/main.dddcfc51.css.map",
-    "main.74591b99.js.map": "/restaurant-react/static/js/main.74591b99.js.map"
+    "main.css": "/restaurant-project/static/css/main.2e4f9b48.css",
+    "main.js": "/restaurant-project/static/js/main.d15b14a0.js",
+    "static/media/sallata.jpg": "/restaurant-project/static/media/sallata.e36eca61d338a036899f.jpg",
+    "static/media/food.jpg": "/restaurant-project/static/media/food.9baf666607712c15e9fc.jpg",
+    "static/media/OIP.jpg": "/restaurant-project/static/media/OIP.2be83ffa285b2f152679.jpg",
+    "static/media/margarita.jpg": "/restaurant-project/static/media/margarita.b1ad6e0d2e085846efb5.jpg",
+    "static/media/pasta.jpg": "/restaurant-project/static/media/pasta.1529eb9d286bca825145.jpg",
+    "static/media/mishra.jpg": "/restaurant-project/static/media/mishra.8663addc2c3f23408236.jpg",
+    "index.html": "/restaurant-project/index.html",
+    "main.2e4f9b48.css.map": "/restaurant-project/static/css/main.2e4f9b48.css.map",
+    "main.d15b14a0.js.map": "/restaurant-project/static/js/main.d15b14a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.dddcfc51.css",
-    "static/js/main.74591b99.js"
+    "static/css/main.2e4f9b48.css",
+    "static/js/main.d15b14a0.js"
   ]
 }
